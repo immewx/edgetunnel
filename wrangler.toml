@@ -3,6 +3,6 @@ main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-#[kv_namespaces]]
+[kv_namespaces]]
 binding = "KV"
 id = "d114112d3942470bb1d4be31a9684b97"
